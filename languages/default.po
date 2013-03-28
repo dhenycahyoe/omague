@@ -1,0 +1,600 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OmaGue 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-27 20:02+0700\n"
+"PO-Revision-Date: 2013-03-27 20:02+0700\n"
+"Last-Translator: Deny E.Wicahyo <dheny@omague.com>\n"
+"Language-Team: Deny E.Wicahyo <dheny@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;_x;_attr;__\n"
+"X-Poedit-Basepath: /var/www/oma/wp-content/themes/omague\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /var/www/oma/wp-content/themes/omague\n"
+
+#: /var/www/oma/wp-content/themes/omague/comments.php:14
+msgid "Comments are closed."
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/comments.php:34
+msgid "Leave a Reply"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/comments.php:37
+msgid "Submit"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/footer.php:9
+msgid "Copyright &copy;"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/footer.php:10
+#, php-format
+msgid "Powered by <a href=\"http://wordpress.org/\" title=\"%1$s\" rel=\"generator\">%2$s</a> | <a href=\"http://omague.com/\" title=\"%3$s\" rel=\"designer\">%4$s Themes</a>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/404.php:14
+msgid "Error 404 - Page not found"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/404.php:16
+msgid "The page you are looking for does not exist or has been deleted. <br> This page will be automatically transferred to the home page in 3 Seconds"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/search.php:20
+#: /var/www/oma/wp-content/themes/omague/index.php:17
+#: /var/www/oma/wp-content/themes/omague/archive.php:49
+#: /var/www/oma/wp-content/themes/omague/page.php:16
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/search.php:21
+#: /var/www/oma/wp-content/themes/omague/single.php:46
+#: /var/www/oma/wp-content/themes/omague/archive.php:50
+#: /var/www/oma/wp-content/themes/omague/page.php:38
+msgid "Posted on :"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/search.php:22
+#: /var/www/oma/wp-content/themes/omague/search.php:25
+#: /var/www/oma/wp-content/themes/omague/single.php:20
+#: /var/www/oma/wp-content/themes/omague/single.php:23
+#: /var/www/oma/wp-content/themes/omague/archive.php:51
+#: /var/www/oma/wp-content/themes/omague/archive.php:54
+msgid ", "
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/search.php:23
+#: /var/www/oma/wp-content/themes/omague/single.php:21
+#: /var/www/oma/wp-content/themes/omague/archive.php:52
+msgid "Category :"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/search.php:26
+#: /var/www/oma/wp-content/themes/omague/single.php:24
+#: /var/www/oma/wp-content/themes/omague/archive.php:55
+msgid "Tags :"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/search.php:32
+#: /var/www/oma/wp-content/themes/omague/single.php:28
+#: /var/www/oma/wp-content/themes/omague/index.php:21
+#: /var/www/oma/wp-content/themes/omague/archive.php:61
+#: /var/www/oma/wp-content/themes/omague/page.php:20
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/sidebar-page.php:10
+msgid "Recent Posts"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/sidebar-page.php:23
+msgid "Random Post"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/sidebar-page.php:34
+msgid "Popular Posts"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:27
+msgid "General"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:31
+msgid "Custom Favicon"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:32
+msgid "Upload a favicon for your website, or specify the image address of your online favicon. (http://example.com/favicon.png)"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:41
+msgid "Social Network"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:46
+msgid "Social settings"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:47
+msgid "<p>You can use the box below to change the default settings of social media, and adjust custom link your social media</p><p><i>example : http://link-social-media.tld/your_username</i></p>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:52
+msgid "First check for the activate and deactivate settings Social Media"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:53
+msgid "Click here to activate and deactivate settings of Social Media."
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:58
+msgid "FeedBurner Username"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:59
+msgid "ex : http://feeds.feedburner.com/OmaGue"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:65
+msgid "Facebook Username"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:66
+msgid "ex : http://www.facebook.com/OmaGuecom"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:72
+msgid "Twitter Username"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:73
+msgid "ex : http://twitter.com/dhenycahyoe"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:79
+msgid "Google Plus Username"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:80
+msgid "ex : http://gplus.to/dhenycahyoe"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:89
+msgid "SEO Optimation"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:93
+msgid "Webmaster Tools Setting"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:94
+msgid "You can use the boxes below to verify with the different Webmaster Tools. Only enter the meta values/content. <br />ex: <i><meta name=\"google-site-verification\" content=\"<b>k3o70s7u4ZamnjJLD001100110011</b>\" /></i>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:99
+msgid "Google Webmaster Tools"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:100
+msgid "<a href=\\\"http://www.google.com/webmasters\\\">Google webmaster tools &raquo;</a>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:107
+msgid "Bing Webmaster"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:108
+msgid "<a href=\\\"http://www.bing.com/webmaster\\\">Bing webmaster &raquo;</a>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:114
+msgid "Alexa"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:115
+msgid "<a href=\\\"http://www.alexa.com\\\">Alexa &raquo;</a>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:122
+msgid "Analytic Code"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:123
+msgid "Paste your Google Analytics (or other) tracking code here. It will be inserted before the closing body tag of your theme."
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:131
+msgid "About"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:136
+msgid "About the OmaGue Themes"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:137
+msgid ""
+"<p>OmaGue HTML 5 Minimalist and Responsive WordPress themes. is themes elegant, clean, simple and Responsive WordPress themes. It supports 9 widget areas, SEO meta settings, custom icon, support custom menus and multi level dropdown menus, Also translation ready.</p>\n"
+"\t\t<p>If you have any problem or questions, you can post on <a href=\\\"http://omague.com/kontak\\\" target=\\\"_blank\\\"><b>OmaGue Themes Support</b></a> or contact me on Twitter <a href=\\\"http://twitter.com/dhenycahyoe\\\" target=\\\"_blank\\\"><b>@dhenycahyoe</b></a>.</p>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:142
+msgid "Special Thank&lsquo;s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/options.php:143
+msgid ""
+"<ul><li><a href=\\\"http://amdhas.com\\\" target=\\\"_blank\\\">Amdhas Chromatic</a></li>\n"
+"\t\t\t\t\t<li><a href=\\\"http://hirizh.name\\\" target=\\\"_blank\\\">Rizqy Hidayat</a></li>\n"
+"\t\t\t\t\t<li><a href=\\\"http://kimzigr.com\\\" target=\\\"_blank\\\">KimZigr</a></li>\n"
+"\t\t\t\t\t</ul>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:16
+msgid "Leave a comment"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:16
+msgid "% Comments"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:16
+#: /var/www/oma/wp-content/themes/omague/page.php:17
+msgid "(Edit)"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:52
+#: /var/www/oma/wp-content/themes/omague/page.php:44
+msgid "Author:"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:60
+#: /var/www/oma/wp-content/themes/omague/page.php:52
+msgid "Join To"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:61
+#: /var/www/oma/wp-content/themes/omague/page.php:53
+msgid "RSS Feed"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:62
+#: /var/www/oma/wp-content/themes/omague/page.php:54
+msgid "Add on Facebook"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:63
+#: /var/www/oma/wp-content/themes/omague/page.php:55
+msgid "Follow on Twitter"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/single.php:64
+#: /var/www/oma/wp-content/themes/omague/page.php:56
+msgid "Google Plus"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:59
+msgid "Primary Menu"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:86
+#: /var/www/oma/wp-content/themes/omague/functions.php:91
+#: /var/www/oma/wp-content/themes/omague/functions.php:322
+msgid "Page"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:106
+msgid "Untitled"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:120
+msgid "Home1"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:121
+msgid "Home Widget 1"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:128
+msgid "Home2"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:129
+msgid "Home Widget 2"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:136
+msgid "Home3"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:137
+msgid "Home Widget 3"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:144
+msgid "Single1"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:145
+msgid "Single Widget 1"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:152
+msgid "Single2"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:153
+msgid "Single Widget 2"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:160
+msgid "Single3"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:161
+msgid "Single Widget 3"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:168
+msgid "Footer1"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:169
+msgid "Footer Widget 1"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:176
+msgid "Footer2"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:177
+msgid "Footer Widget 2"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:184
+msgid "Footer3"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:185
+msgid "Footer Widget 3"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:205
+msgid "Read more &raquo;"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:234
+msgid "Home"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:253
+msgid "Archive for "
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:306
+msgid "Search results for "
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:309
+msgid "Posts tagged "
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:314
+msgid "All posts by "
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:317
+msgid "Error 404 "
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:343
+msgid "Pingback:"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:343
+#: /var/www/oma/wp-content/themes/omague/functions.php:360
+msgid "Edit"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:354
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:358
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:363
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:374
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/functions.php:443
+msgid "Pages:"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/archive.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/archive.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/archive.php:24
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/archive.php:29
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/archive.php:31
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/archive.php:33
+msgid "Archives"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/upgrade.php:31
+msgid "Theme Options Media"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-media-uploader.php:54
+#: /var/www/oma/wp-content/themes/omague/inc/options-media-uploader.php:107
+msgid "Upload"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-media-uploader.php:56
+#: /var/www/oma/wp-content/themes/omague/inc/options-media-uploader.php:108
+msgid "Remove"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-framework.php:171
+#: /var/www/oma/wp-content/themes/omague/inc/options-framework.php:386
+msgid "Theme Options"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-framework.php:202
+msgid "Clear"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-framework.php:203
+msgid "Default"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-framework.php:204
+msgid "Select Color"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-framework.php:250
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-framework.php:282
+msgid "Default options restored."
+msgstr ""
+
+#: /var/www/oma/wp-content/themes/omague/inc/options-framework.php:336
+msgid "Options saved."
+msgstr ""
+

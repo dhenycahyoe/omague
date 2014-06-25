@@ -30,11 +30,21 @@ Images Created by Deny E. Wicahyo<br>
 Format: PNG
 
 
-== Changelog ==
----------------
+-----------------------------------------------
+    == Changelog ==
+-----------------------------------------------
+
+== 1.5 - 12 June 2014 ==
+* There is a shortage of compressed zip files in the previous version
+
+== 1.1 - 11 June 2014 ==
+* Upgrade Themes Options Framework
+* Validasi HTML5
+* Fix another bug
+* Update .pot file
+* Remove Special Thank's on themes options
 
 == 1.0 - 27 Mar 2013 ==
-
 * Upgrade Themes Options Framework
 * Update HTML5.js
 * Update .pot file
@@ -46,11 +56,9 @@ Format: PNG
 * Fix on global $content_width
 
 == 0.5 - 15 Dec 2012 ==
-
 * fixes the problem <?php post_class();?> in index.php, archives.php, search.php
 
 == 0.4 - 15 Dec 2012 ==
-
 * CSS style fixes
 * Update version Options Framework
 * Update default languages .pot files 
@@ -58,7 +66,6 @@ Format: PNG
 * Update resolution screenshot to Retina displays
 
 == 0.3 - 24 Oct 2012 ==
-
 * Add body class
 * Add Filter content with empty post title
 * Enqueue comment reply merged to function omague_enqueue_scripts
@@ -73,7 +80,6 @@ Format: PNG
 * Edit screenshot Themes
 
 == 0.2 - 24 Sept 2012 ==
-
 * fix the bug on commnets.php
 * fix stylehome.css and stye.css
 * improve the options panel
@@ -81,12 +87,11 @@ Format: PNG
 * Add special thank's list on theme options page
 
 == 0.1 - 21 Sept 2012 ==
-
 * Release
 
 
 ---
-dkNote Themes created by : Deny E.Wicahyo<br>
-My Blog      = http://omague.com/<br>
+OmaGue Themes created by : Deny E.Wicahyo<br>
+My Blog			= http://OmaGue.com/<br>
 My Facebook  = http://facebook.com/DenyEkaWicahyo<br>
 My Twitter   = http://twitter.com/dhenycahyoe<br>

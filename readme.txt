@@ -46,6 +46,16 @@ Format: PNG
     == Changelog ==
 -----------------------------------------------
 
+== 1.5 - 12 June 2014 ==
+* There is a shortage of compressed zip files in the previous version
+
+== 1.1 - 11 June 2014 ==
+* Upgrade Themes Options Framework
+* Validasi HTML5
+* Fix another bug
+* Update .pot file
+* Remove Special Thank's on themes options
+
 == 1.0 - 27 Mar 2013 ==
 * Upgrade Themes Options Framework
 * Update HTML5.js
@@ -94,7 +104,7 @@ Format: PNG
 
 ======================================================
 OmaGue Themes created by : Deny E.Wicahyo
-My Blog			= http://omague.com/
+My Blog			= http://OmaGue.com/
 My Facebook		= http://facebook.com/DenyEkaWicahyo
 My Twitter		= http://twitter.com/dhenycahyoe
 ======================================================

@@ -7,19 +7,19 @@ if ( post_password_required() )
 	return; ?>
 <div id="comments">
  <?php if ( have_comments() ) : ?>
-  <section class=tombolkomentar><a href="#respond">
+  <section class="tombolkomentar"><a href="#respond">
     <?php printf( _n( 'One Comment on &ldquo;%2$s&rdquo;', '<span>%1$s Comments</span> on &ldquo;%2$s&rdquo;', get_comments_number(), 'omague' ),
        number_format_i18n( get_comments_number() ), '<span>' . get_the_title() . '</span>' ); ?>
     <?php if ( ! comments_open() && '0' != get_comments_number() && post_type_supports( get_post_type(), 'comments' ) ) : ?>
       <p class="nocomments"><?php _e( 'Comments are closed.', 'omague' ); ?></p></a>
     <?php endif; ?>
   </section>
-  <div class=kosong></div>
-  <ul class=commentlist>
+  <div class="kosong"></div>
+  <ul class="commentlist">
     <?php wp_list_comments( array( 'callback' => 'omague_comment' ) ); ?>
   </ul><!-- .commentlist -->
     <?php if ( get_comment_pages_count() > 1 && get_option( 'page_comments' ) ) : ?>
-  <nav id=pagenavi><?php paginate_comments_links(); ?></nav>
+  <nav id="pagenavi"><?php paginate_comments_links(); ?></nav>
 		<?php endif; ?>			
  <?php endif; // have_comments() ?>
  <?php if (comments_open()): // The comment form 

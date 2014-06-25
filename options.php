@@ -3,7 +3,7 @@
  * Theme options
  * 
  * @package OmaGue
- * @since omague 0.3
+ * @since OmaGue 0.3
  */
 
 function optionsframework_option_name() {
@@ -135,16 +135,9 @@ function optionsframework_options() {
 	$options[] = array( 
 		'name' => __('About the OmaGue Themes','omague'),
 		'desc' => __( '<p>OmaGue HTML 5 Minimalist and Responsive WordPress themes. is themes elegant, clean, simple and Responsive WordPress themes. It supports 9 widget areas, SEO meta settings, custom icon, support custom menus and multi level dropdown menus, Also translation ready.</p>
-		<p>If you have any problem or questions, you can post on <a href=\"http://omague.com/kontak\" target=\"_blank\"><b>OmaGue Themes Support</b></a> or contact me on Twitter <a href=\"http://twitter.com/dhenycahyoe\" target=\"_blank\"><b>@dhenycahyoe</b></a>.</p>', 'omague' ),
+		<p>If you have any problem or questions, you can post on <a href=\"http://omague.com/contact\" target=\"_blank\"><b>OmaGue Themes Support</b></a> or contact me on Twitter <a href=\"http://twitter.com/dhenycahyoe\" target=\"_blank\"><b>@dhenycahyoe</b></a>.</p>', 'omague' ),
 		'type' => 'info'
 	);
-	$options[] = array(
-		'name' => __('Special Thank&lsquo;s', 'omague'),
-		'desc' => __('<ul><li><a href=\"http://amdhas.com\" target=\"_blank\">Amdhas Chromatic</a></li>
-					<li><a href=\"http://hirizh.name\" target=\"_blank\">Rizqy Hidayat</a></li>
-					<li><a href=\"http://kimzigr.com\" target=\"_blank\">KimZigr</a></li>
-					</ul>', 'omague'),
-		'type' => 'info');
 	
 	return $options;
 }

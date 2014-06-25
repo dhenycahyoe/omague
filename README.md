@@ -30,9 +30,7 @@ Images Created by Deny E. Wicahyo<br>
 Format: PNG
 
 
------------------------------------------------
-    == Changelog ==
------------------------------------------------
+== Changelog ==
 
 == 1.5 - 12 June 2014 ==
 * There is a shortage of compressed zip files in the previous version

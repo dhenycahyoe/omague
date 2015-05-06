@@ -117,6 +117,7 @@ function omague_untitled($title) {
 add_action( 'widgets_init', 'omague_widgets_init');
 function omague_widgets_init() {
 register_sidebar(array(
+     'id' => 'home-1',
      'name' => __('Home1','omague'),
      'description' => __('Home Widget 1', 'omague'),
      'before_widget' => '',
@@ -125,6 +126,7 @@ register_sidebar(array(
      'after_title' => '</h3>'
 ));
 register_sidebar(array(
+     'id' => 'home-2',
      'name' => __('Home2','omague'),
      'description' => __('Home Widget 2', 'omague'),
      'before_widget' => '',
@@ -133,6 +135,7 @@ register_sidebar(array(
      'after_title' => '</h3>'
 ));
 register_sidebar(array(
+     'id' => 'home-3',
      'name' => __('Home3','omague'),
      'description' => __('Home Widget 3', 'omague'),
      'before_widget' => '',
@@ -141,6 +144,7 @@ register_sidebar(array(
      'after_title' => '</h3>'
 ));
 register_sidebar(array(
+     'id' => 'single-1',
      'name' => __('Single1','omague'),
      'description' => __('Single Widget 1', 'omague'),
      'before_widget' => '',
@@ -149,6 +153,7 @@ register_sidebar(array(
      'after_title' => '</h3>'
 ));
 register_sidebar(array(
+     'id' => 'single-2',
      'name' => __('Single2','omague'),
      'description' => __('Single Widget 2', 'omague'),
      'before_widget' => '',
@@ -157,6 +162,7 @@ register_sidebar(array(
      'after_title' => '</h3>'
 ));
 register_sidebar(array(
+     'id' => 'single-3',
      'name' => __('Single3','omague'),
      'description' => __('Single Widget 3', 'omague'),
      'before_widget' => '',
@@ -165,6 +171,7 @@ register_sidebar(array(
      'after_title' => '</h3>'
 ));
 register_sidebar(array(
+     'id' => 'footer-1',
      'name' => __('Footer1','omague'),
      'description' => __('Footer Widget 1', 'omague'),
      'before_widget' => '',
@@ -173,6 +180,7 @@ register_sidebar(array(
      'after_title' => '</h3>'
 ));
 register_sidebar(array(
+     'id' => 'footer-2',
      'name' => __('Footer2','omague'),
      'description' => __('Footer Widget 2', 'omague'),
      'before_widget' => '',
@@ -181,6 +189,7 @@ register_sidebar(array(
      'after_title' => '</h3>'
 ));
 register_sidebar(array(
+     'id' => 'footer-3',
      'name' => __('Footer3','omague'),
      'description' => __('Footer Widget 3', 'omague'),
      'before_widget' => '',
